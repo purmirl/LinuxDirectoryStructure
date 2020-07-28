@@ -1,7 +1,7 @@
 LinuxDirectoryStructure
 ===================================================================================================================
 _Simple Linux Directory Structure_   
-Copyright 2020 PeTrA. All rights reserved.
+_Copyright 2020 PeTrA. All rights reserved._
    
 Language : JAVA   
 Data Structure : Node, LinkedList, Tree   
