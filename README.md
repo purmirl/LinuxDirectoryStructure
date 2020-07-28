@@ -1,4 +1,4 @@
-LinuxDirectoryStructure
+LinuxDirectoryStructure _by petra_
 ===================================================================================================================
 _Simple Linux Directory Structure_   
 _Copyright 2020 PeTrA. All rights reserved._
