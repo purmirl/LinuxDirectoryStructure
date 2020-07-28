@@ -1,5 +1,6 @@
-# LinuxDirectoryStructure
-## Simple Linux Directory Structure 
+LinuxDirectoryStructure
+===================================================================================================================
+[**Simple Linux Directory Structure**] 
 Copyright 2020 PeTrA. All rights reserved.
 ------
 Language : JAVA   
