@@ -7,3 +7,7 @@ _Copyright 2020 PeTrA. All rights reserved._
 * OS : Windows 10   
 * IDE : Eclipse series   
 * Data Structure : Node, LinkedList, Tree  
+## Project
+ * Project Name : Linux Directory Structure Project   
+ * Java Project Name : SimpleConsole Project   
+ 
