@@ -10,4 +10,5 @@ _Copyright 2020 PeTrA. All rights reserved._
 ## Project
  * _Project Name : Linux Directory Structure Project_   
  * _Java Project Name : SimpleConsole Project_   
+## Explanation
  
