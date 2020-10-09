@@ -11,4 +11,4 @@ _Copyright 2020 PeTrA. All rights reserved._
  * _Project Name : Linux Directory Structure Project_   
  * _Java Project Name : SimpleConsole Project_   
 ## Explanation
-The Linux Directory consists of Tree data structure with multiple layers, and nodes. If there is a one directory added likes <U>mkdir</U>, the nodes is added in the layer of Tree. 
+The Linux Directory consists of Tree data structure with multiple layers, and nodes. If there is a one directory added likes _mkdir_, the nodes is added in the layer of Tree. 
