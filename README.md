@@ -14,4 +14,6 @@ _Copyright 2020 PeTrA. All rights reserved._
 The Linux Directory consists of Tree data structure with multiple layers, and nodes. If there is a one directory added likes "_mkdir_", the node is added in the layer of Tree. If there is a one directory deleted likes "_rm -r_", the node is deleted in the layer of Tree.   
 ## View
  * _start view_   
- ![start_view_1](https://user-images.githubusercontent.com/33143731/95863958-bf936080-0d9f-11eb-8d61-10bb6b450f5c.png)
+ ![start_view_1](https://user-images.githubusercontent.com/33143731/95863958-bf936080-0d9f-11eb-8d61-10bb6b450f5c.png)   
+ * _ls & mkdir view_   
+ ![ls,mkdir_view_1](https://user-images.githubusercontent.com/33143731/96120885-2cd2fd00-0f2a-11eb-979d-a2c248a5f57a.png)
